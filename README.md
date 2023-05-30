@@ -7,10 +7,15 @@ College: Knowledge Institute of Technology, Salem
 Team Members:
 
 •	Prasanna Sekaran E
+
 •	Siva Sankar C
+
 •	Parvathi P
+
 •	Sowndarya T
+
 •	Sree Varshini S
+
 
 **VBOT ( VoiceBot ):**
 This Folder consists of main webpage( index1.html ) and voice bot(templates/index.html) page
