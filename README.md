@@ -1,8 +1,11 @@
 # Dominatrix - HLS 2  HC – Conversational Voice AI for Healthcare Industry 
 
 Team : **Dominatrix**
+
 College: Knowledge Institute of Technology, Salem
+
 Team Members:
+
 •	Prasanna Sekaran E
 •	Siva Sankar C
 •	Parvathi P
