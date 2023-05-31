@@ -21,6 +21,8 @@ Team Members:
 **VBOT ( VoiceBot ):**
 This Folder consists of main webpage( index1.html ) and voice bot(templates/index.html) page
 
+**app.py**: This python file consists of Voicebot's model
+
 Softawares Required to open "edoc-doctor-appointment-system-main ":
 
 **XAMPP Control Panel :**
