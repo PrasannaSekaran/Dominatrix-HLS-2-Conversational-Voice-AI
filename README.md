@@ -1,4 +1,4 @@
-# Virtusa Jatayu Season 3
+# Virtusa's Jatayu Season 3
 # Dominatrix - HLS 2  HC – Conversational Voice AI for Healthcare Industry 
 
 Team : **Dominatrix**
